@@ -24,19 +24,19 @@
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
     font-size: 8rem;
-    color: #16c7efe2;
+    color: #0ce25be2;
   }
   h2 {
     margin: 30px;
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
     font-size: 8rem;
-    color: #0fd1ebfe;
+    color: #0ce25be2;
   }
   h4{
     text-shadow: 2px 0 #232931bd;
     font-size: 1.5rem;
-    color: #12c3e2fe;
+    color: #0ce25be2;
     margin: 0;
   }
   .fun{
@@ -46,7 +46,7 @@
   
   p {
     font-size: 2rem;
-    color: #1c15a6fe;
+    color: #0ce25be2;
     font-family: 'Indie Flower', cursive;
     margin-top: 0;
   }
